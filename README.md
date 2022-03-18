@@ -2,7 +2,7 @@ Copyright 2017-2019 - The LineageOS Project
 Copyright 2015-2016 - The CyanogenMod Project
 
 # Device configuration for Samsung Galaxy S4 LTE-A (Snapdragon)
-## Unified variants: GT-I9506/ks01lte, SHV-E330S
+## Variants: GT-I9506/ks01lte, SHV-E330S
 
 Basic   | Specification List
 -------:|:-------------------------
@@ -37,7 +37,7 @@ Release Date | November 2013
 
     <project name="kyasu/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" />
     <project name="kyasu/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" />
-    <project name="kyasu/android_device_samsung_ks01ltexx" path="device/samsung/ks01ltexx" remote="github" />
+    <project name="devnotname/android_device_samsung_ks01ltexx" path="device/samsung/ks01ltexx" remote="github" />
     <project name="kyasu/android_vendor_samsung_ks01ltexx" path="vendor/samsung/ks01ltexx" remote="github" />
 
     <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
